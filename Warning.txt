@@ -1,0 +1,11 @@
+Important Security Information
+
+Protecting Your Data
+
+We take your security seriously in this project. Here's what you need to know:
+
+1. Barcode Security: The barcode image is a critical security asset. Keep it safe by placing it in a secure folder. If possible, limit access to trusted users. This barcode can generate important codes, so handle it with care.
+
+2. Guarding Secrets: We've added sensitive information, like passwords, in the app.config file. Be cautious when using it. Don't share it widely, and ensure only authorized people have access. This keeps your information secure during testing.
+
+3. Our Code's Security: We're proud to say that our code is designed to be 99% secure. We've covered most loopholes by using access modifiers to control who can see and modify sensitive parts of the code. However, it's essential to acknowledge that there are potential vulnerabilities related to stored secrets and file path visibility. We're actively working to address these concerns in our ongoing commitment to your security.

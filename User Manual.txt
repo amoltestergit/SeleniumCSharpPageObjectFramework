@@ -1,0 +1,25 @@
+A. Test Case 1: Logging in via Gmail Account
+------------------------------------------------------------------------------
+#Objective: To verify successful login using a Gmail account with two-step verification.
+
+#Steps:
+1. Open the test application.
+2. In the app.config file, provide the Gmail account credentials, including the username and password.
+3. In the app.config file, set the file path for the Gmail two-step verification barcode image as follows:
+( How to take gmail two-step verification barcode image?
+- Go to Gmail account settings.
+- Navigate to the "Security" section.
+- Disable the default Google prompt and enable only two-step verification. and from authenticator section get the barcode)
+7. Page Object Model (POM) will convert the Barcode into a security key and then into a Time-based One-Time Password (TOTP).
+8. Scripts will validate whether the login is successful or not.
+
+--------------------------------------------------------------------------------------------------
+B. Test Case 2: Logging in via Microsoft Account
+
+#Objective: To verify successful login using a Microsoft account.
+
+#Steps:
+
+Launch the test application.
+In the app.config file, provide the Microsoft account credentials, including the username and password.
+Execute the test case to validate whether the login is successful or not.

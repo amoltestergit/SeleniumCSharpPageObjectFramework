@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "UgcY6dAOShmBw3xLGn8YC5SVzU7Vp9v6OvJllut7nSH3HhX5LNSc1WZDMgFY8rGReOJn94GV0nYhPlXkEp+/lw==",
+  "success": true,
+  "projectFilePath": "F:\\ASTAQC\\Task\\Login-usecase\\Login-usecase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amol\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\amol\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\amol\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\amol\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\amol\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\amol\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\amol\\.nuget\\packages\\otp.net\\1.3.0\\otp.net.1.3.0.nupkg.sha512",
+    "C:\\Users\\amol\\.nuget\\packages\\selenium.support\\3.11.0\\selenium.support.3.11.0.nupkg.sha512",
+    "C:\\Users\\amol\\.nuget\\packages\\selenium.webdriver\\3.11.0\\selenium.webdriver.3.11.0.nupkg.sha512",
+    "C:\\Users\\amol\\.nuget\\packages\\selenium.webdriver.chromedriver\\117.0.5938.6200\\selenium.webdriver.chromedriver.117.0.5938.6200.nupkg.sha512",
+    "C:\\Users\\amol\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\amol\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\amol\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\amol\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\amol\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512"
+  ],
+  "logs": []
+}
