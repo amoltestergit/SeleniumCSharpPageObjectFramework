@@ -2,10 +2,13 @@ Important Security Information
 
 Protecting Your Data
 
-We take your security seriously in this project. Here's what you need to know:
+Security is a top priority in this project. Here's what you need to know:
 
-1. Barcode Security: The barcode image is a critical security asset. Keep it safe by placing it in a secure folder. If possible, limit access to trusted users. This barcode can generate important codes, so handle it with care.
+1. Barcode Security:
+The barcode image is a crucial security asset. Please ensure it is stored in a secure folder. If possible, restrict access to trusted users only. This barcode can generate important codes, so handle it with care.
 
-2. Guarding Secrets: We've added sensitive information, like passwords, in the app.config file. Be cautious when using it. Don't share it widely, and ensure only authorized people have access. This keeps your information secure during testing.
+2. Safeguarding Secrets:
+Sensitive information, such as passwords, is stored in the app.config file. Exercise caution when handling it. Do not share it widely, and ensure that only authorized individuals have access. This precaution is essential to maintain the security of your information during testing.
 
-3. Our Code's Security: We're proud to say that our code is designed to be 99% secure. We've covered most loopholes by using access modifiers to control who can see and modify sensitive parts of the code. However, it's essential to acknowledge that there are potential vulnerabilities related to stored secrets and file path visibility. We're actively working to address these concerns in our ongoing commitment to your security.
+3. Code Security:
+I am proud to report that my code is designed to be 99% secure. I have addressed most vulnerabilities by using access modifiers to control who can view and modify sensitive parts of the code. However, it's important to acknowledge that potential vulnerabilities may exist related to stored secrets and file path visibility. I am actively working to address these concerns as part of my ongoing commitment to your security.
